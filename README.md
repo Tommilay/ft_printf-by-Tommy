@@ -35,7 +35,7 @@ To compile a specifique source file (.c), run the following command :
 ```bash
 make
 make clean
-cc -Wall -Wextra -Werror file.c libft.a
+cc -Wall -Wextra -Werror file.c libftprintf.a
 ./a.out
 ```
 
